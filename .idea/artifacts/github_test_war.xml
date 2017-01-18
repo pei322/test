@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="github_test:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="winssage.war">
+      <element id="artifact" artifact-name="github_test:war exploded" />
+    </root>
+  </artifact>
+</component>
